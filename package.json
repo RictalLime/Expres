@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "name": "expres",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RictalLime/Expres.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RictalLime/Expres/issues"
+  },
+  "homepage": "https://github.com/RictalLime/Expres#readme"
+}
